@@ -5,7 +5,7 @@
 I'm a beginner frontend developer. This year I had finished developer's courses on Yandex Practicum, the created own website and online shop for coffee shops "Pitcher"
 
 - 🌍  I'm based in Valencia
-- ✉️  You can contact me at [email: settler59@yandex.ru, tg: @stop\_and\_run](mailto:email: settler59@yandex.ru, tg: @stop_and_run )
+- ✉️  You can contact me at email: settler59@yandex.ru or telegram: @stop_and_run
 - 🚀  I'm currently working on [Pitcher website](http://pitcherbar.ru/)
 - 🧠  I'm learning next.js, nest.js
 
@@ -40,7 +40,5 @@ src="https://img.shields.io/github/followers/AndreyZhukovSPb?logo=github&style=f
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/pitcher" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/pitcher-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher-backend&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/movies-explorer-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=movies-explorer-frontend&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/react-mesto-api-full" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=react-mesto-api-full&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
