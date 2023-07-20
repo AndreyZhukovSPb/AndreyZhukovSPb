@@ -5,8 +5,8 @@
 I'm a beginner frontend developer. This year I had finished developer's courses on Yandex Practicum, then created own website and online shop for coffee shops "Pitcher". I'm an open mind professional, I'm strongly certain that my background will help to realize myself on web development. I'm ready to learn, ready to work hard and enjoy new job this huge new world.
 
 - 🌍  I'm based in Valencia
-- ✉️  You can contact me at email: `settler59@yandex.ru` or telegram: @stop_and_run
-- 🚀  I'm currently working on [Pitcher website](http://pitcherbar.ru/)
+- ✉️  You can contact me at email: settler59@yandex.ru or telegram: @stop_and_run
+- 🚀  I'm currently working on [Pitcher website](https://andreyzhukovspb.github.io/pitcher/)
 - 🧠  I'm learning next.js, nest.js
 
 ### Socials
