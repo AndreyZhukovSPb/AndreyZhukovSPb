@@ -9,8 +9,9 @@ I'm a beginner frontend developer. This year I had finished developer's courses 
 - 🚀  I'm currently working on [Pitcher website](http://pitcherbar.ru/)
 - 🧠  I'm learning next.js, nest.js
 
-<a href="https://www.github.com/AndreyZhukovSPb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AndreyZhukovSPb?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AndreyZhukovSPb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Skills
 
@@ -24,10 +25,6 @@ src="https://img.shields.io/github/followers/AndreyZhukovSPb?logo=github&style=f
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AndreyZhukovSPb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
