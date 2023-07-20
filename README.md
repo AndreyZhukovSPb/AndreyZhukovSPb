@@ -2,7 +2,7 @@
 
 ## Frontend developer
 
-I'm a beginner frontend developer. This year I had finished developer's courses on Yandex Practicum, the created own website and online shop for coffee shops "Pitcher"
+I'm a beginner frontend developer. This year I had finished developer's courses on Yandex Practicum, then created own website and online shop for coffee shops "Pitcher"
 
 - 🌍  I'm based in Valencia
 - ✉️  You can contact me at email: settler59@yandex.ru or telegram: @stop_and_run
