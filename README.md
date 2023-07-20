@@ -1,4 +1,4 @@
-# My name is Andrei Zhukov
+# Hi 👋 My name is Andrei Zhukov
 
 ## Frontend developer
 
@@ -33,14 +33,14 @@ src="https://img.shields.io/github/followers/AndreyZhukovSPb?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AndreyZhukovSPb"><img src="https://github-readme-stats.vercel.app/api?username=AndreyZhukovSPb&show_icons=true&hide=stars,contribs&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="AndreyZhukovSPb's GitHub stats" /></a>
+<a href="http://www.github.com/AndreyZhukovSPb"><img src="https://github-readme-stats.vercel.app/api?username=AndreyZhukovSPb&show_icons=true&hide=stars,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="AndreyZhukovSPb's GitHub stats" /></a>
 
-<a href="https://github.com/AndreyZhukovSPb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyZhukovSPb&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AndreyZhukovSPb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyZhukovSPb&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/pitcher" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/pitcher-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher-backend&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/pitcher" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/pitcher-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=pitcher-backend&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/movies-explorer-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=movies-explorer-frontend&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/react-mesto-api-full" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=react-mesto-api-full&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/AndreyZhukovSPb/movies-explorer-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=movies-explorer-frontend&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AndreyZhukovSPb/react-mesto-api-full" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyZhukovSPb&repo=react-mesto-api-full&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
